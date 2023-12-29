@@ -23,12 +23,13 @@ Tired of sifting through endless text or blurry images? Craving a search engine 
 
 **A World of Knowledge Awaits:**
 
-But wait, there's more! Seamlessly navigate between our dedicated text and image search pages, accessible right from this very interface. Each page is designed to empower your specific search inquiries, providing a tailored experience for both textual and visual exploration.
+But wait, there's more! Seamlessly navigate between my dedicated text and image search pages, accessible right from this very interface. Each page is designed to empower your specific search inquiries, providing a tailored experience for both textual and visual exploration.
 
-**Ready to embark on a journey of discovery?** Click the "Text Search" button to delve into the written word, or choose "Image Search" to unlock the secrets hidden within pixels. Our LLM-powered engine awaits, eager to serve as your guide through the boundless realms of information.
+**Ready to embark on a journey of discovery?** Click the "TEXT" button to delve into the written word, or choose "IMAGE" to unlock the secrets hidden within pixels. This LLM-powered engine awaits, eager to serve as your guide through the boundless realms of information.
 
 
 **I have attached the contact form, if you have any queries then write a message and send to me!!**
+* **Credits to GoogleGenerativeAI** 
 
 """)
 st.sidebar.success("select a page above")
