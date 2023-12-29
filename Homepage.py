@@ -8,19 +8,18 @@ st.set_page_config(
 st.title("Hello page!")
 st.write(""" Unveiling the Hidden: Master both Text and Image with the Powerful Search Engine!
 
-Tired of sifting through endless text or blurry images? Craving a search engine that understands your every nuance, whether you whisper a phrase or upload a picture? Look no further! We've harnessed the power of cutting-edge LLM (Large Language Model) technology to bring you a revolutionary dual-faceted search experience.
+Tired of sifting through endless text or blurry images? Craving a search engine that understands your every nuance, whether you whisper a phrase or upload a picture? Look no further! I've harnessed the power of cutting-edge LLM (Large Language Model) technology to bring you a revolutionary dual-faceted search experience.
 
 **Textual Sleuth:**
 
-* **Unleash the wordsmith within:** Craft your query with precision, be it a simple keyword or an intricate sentence. Our LLM model delves deep into the vast ocean of text, unearthing the information you seek with uncanny accuracy. 
-* **Navigate the semantic labyrinth:** Don't just find the needle in the haystack, understand its context. Our model deciphers the relationships between words, concepts, and entities, ensuring you grasp the true meaning behind every result.
-* **Refine your search with ease:** Feeling overwhelmed by options? Utilize our intuitive filters and sorting tools to narrow down your results and reach your desired destination precisely.
+* **Unleash the wordsmith within:** Craft your query with precision, be it a simple keyword or an intricate sentence. This LLM model delves deep into the vast ocean of text, unearthing the information you seek with uncanny accuracy. 
+* **Navigate the semantic labyrinth:** Don't just find the needle in the haystack, understand its context. This model deciphers the relationships between words, concepts, and entities, ensuring you grasp the true meaning behind every result.
 
 **Visual Detective:**
 
-* **Speak the language of pictures:** Forget clumsy keyword descriptions. Upload an image, any image, and our LLM model will decipher its visual elements, from objects and colors to scenes and emotions.
-* **Find the needle in the image haystack:** Lost in a sea of similar visuals? Our model goes beyond basic image recognition, understanding the relationships and context within the image to deliver relevant results.
-* **Reverse image search:** Can't place that intriguing picture? Upload it, and our model will scour the web to find its origin, similar visuals, and any associated information.
+* **Speak the language of pictures:** Forget clumsy keyword descriptions. Upload an image, any image, and this LLM model will decipher its visual elements, from objects and colors to scenes and emotions.
+* **Find the needle in the image haystack:** Lost in a sea of similar visuals? This model goes beyond basic image recognition, understanding the relationships and context within the image to deliver relevant results.
+* **Reverse image search:** Can't place that intriguing picture? Upload it, and model will scour the web to find its origin, similar visuals, and any associated information.
 
 **A World of Knowledge Awaits:**
 
