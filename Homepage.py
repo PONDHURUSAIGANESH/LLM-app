@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon="✍",
 )
 
-st.title("Hello page!")
+st.title("Hey Viewers!")
 st.write(""" Unveiling the Hidden: Master both Text and Image with the Powerful Search Engine!
 
 Tired of sifting through endless text or blurry images? Craving a search engine that understands your every nuance, whether you whisper a phrase or upload a picture? Look no further! I've harnessed the power of cutting-edge LLM (Large Language Model) technology to bring you a revolutionary dual-faceted search experience.
